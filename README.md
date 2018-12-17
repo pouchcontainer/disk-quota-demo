@@ -110,7 +110,7 @@ The root path has been limited in `10M`. Then try to create file bigger than 10M
 -rw-r--r--    1 root     root       10.0M Dec 17 07:00 only10m
 ```
 
-We can see that `dd` only create `10M` file because the disk quota is out of range.
+We can see that `dd` only create `10M` file because the disk is out of range.
 
 ## More detail
 
